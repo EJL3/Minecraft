@@ -300,8 +300,7 @@ class Window(pyglet.window.Window):
 
         self.num_keys = [
             key._1, key._2, key._3, key._4, key._5,
-            key._6, key._7, key._8, key._9, key._0]
-
+            key._6,]
 
         self.model = Model()
 
